@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Pong Game Python</b>
-  - [My version of Pong](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [My version of Pong](https://github.com/jeisho23/MyPongVersion)
 
 <h2> 🤳 Connect with me:</h2>
 
