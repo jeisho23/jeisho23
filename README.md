@@ -4,6 +4,7 @@
 
 - <b>Pong Game Python</b>
   - [My version of Pong](https://github.com/jeisho23/MyPongVersion)
+ <p>Stay tuned, more projects to be added soon!!!</p>
 
 <h2> 🤳 Connect with me:</h2>
 
