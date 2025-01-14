@@ -15,5 +15,5 @@
 [<img align="left" alt="JosephEisho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/joseph-eisho-13161b199
-[💻](https://homework-610455437064.us-central1.run.app/home.html)
+[💻](https://eisho-site-610455437064.us-central1.run.app/home)
 
